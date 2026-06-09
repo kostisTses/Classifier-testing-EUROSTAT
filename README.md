@@ -6,7 +6,7 @@ Project was done for the deep-learning class (ΕΠ22στ) in the University of A
 
 ## Repository contents
 
-- `src.ipynb` — main notebook containing the full workflow. The repository currently consists of this notebook only. :contentReference[oaicite:1]{index=1}
+- `src.ipynb` — main notebook containing the full workflow. The repository currently consists of this notebook only.
 
 ## What the notebook includes
 
