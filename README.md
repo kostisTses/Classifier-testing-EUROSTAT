@@ -1,6 +1,6 @@
 # Satellite image classification on the EUROSAT dataset
 
-PyTorch-based image classification on the **EuroSAT** satellite image dataset, implemented in a single Jupyter notebook. The project appears to be an individual course assignment focused on comparing deep learning methods on satellite imagery. 
+Testing different classification models using different techniques (Normal CNN, Transfer learning , Self-supervised, LoRA) on the **EuroSAT** satellite image dataset, implemented in a single Jupyter notebook.
 
 Project was done for the deep-learning class (ΕΠ22στ) in the University of Athens , DIT
 
@@ -14,7 +14,6 @@ Project was done for the deep-learning class (ΕΠ22στ) in the University of A
 - Reproducibility setup with fixed random seeds
 - GPU/CPU device selection
 - EuroSAT dataset loading
-- Model training and evaluation in notebook form :contentReference[oaicite:2]{index=2}
 
 ## Requirements
 
